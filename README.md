@@ -14,9 +14,11 @@ One of the data frames developed during this challenge shows the differences bet
   5. The multiple line graph that was created shows that PyBer made most of its money through the urban environment.  
   6. The number of rides given in the rural environment was 13 times smaller than those given in the urban and 5 times smaller than those given in suburbia.  If all fares were the same, we would expect the total fares to be collected to be about 13 and 5 times larger for urban and suburban regions.  The graph shows this is not the case.
 
-
 DataFrame
-Picture of graph
+![Fare-Summary-City_Type.png](Fare-Summary-City_Type.png)
+
+Multiple Line Graph
+![PyBer-fare_summary.png](PyBer-fare_summary.png)
 
 ## Summary
 Here are three recommendations I would give to the company CEO
